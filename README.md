@@ -1,4 +1,6 @@
-### Hello there. My name is Dan and I am a software engineer. My favorite language is JavaScript and I have a love/hate relationship with React (more on the love side). I love solving problems which drove me to study Physics in college and, more recently, delve into the wonder world of software development. 
+### Hello there. My name is Dan and I am a software engineer. 
+
+My favorite language is JavaScript and I have a love/hate relationship with React (more on the love side). I love solving problems which drove me to study Physics in college and, more recently, delve into the wonder world of software development. 
 <!--
 **dupchurch93/dupchurch93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
