@@ -6,11 +6,8 @@ My favorite language is JavaScript and I have a love/hate relationship with Reac
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dupchurch93&hide=contribs&show_icons=true&theme=cobalt" />
 </a>
 
-### Languages 
-**JavaScript, Python, HTML, CSS**
-
-### Tech
-**React, Redux, PostgreSQL, Docker, Flask, Express, Tailwind**
+### Languages and Tech
+**JavaScript, Python, HTML, CSS, React, Redux, PostgreSQL, Docker, Flask, Express, Tailwind**
 
 Connect with me here ⤵️
 
