@@ -1,4 +1,4 @@
-### Hello there. My name is Dan and I am a software engineer. 
+## Hello there. My name is Dan and I am a software engineer. 
 
 My favorite language is JavaScript and I have a love/hate relationship with React (more on the love side). I love solving problems which drove me to study Physics in college and, more recently, delve into the wonder world of software development. 
 
@@ -6,10 +6,10 @@ My favorite language is JavaScript and I have a love/hate relationship with Reac
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dupchurch93&hide=contribs&show_icons=true&theme=cobalt" />
 </a>
 
-## Languages 
+### Languages 
 **JavaScript, Python, HTML, CSS**
 
-## Tech
+### Tech
 **React, Redux, PostgreSQL, Docker, Flask, Express, Tailwind**
 
 Connect with me here ⤵️
