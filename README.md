@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupchurch93&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+👋 Find me with these ⤵️
+
+
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielupchurch93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-aguilar-2b99a21b3/)
+<a href="https://vantanova.com/#" target="_blank">
+<img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
