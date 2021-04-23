@@ -2,7 +2,9 @@
 
 My favorite language is JavaScript and I have a love/hate relationship with React (more on the love side). I love solving problems which drove me to study Physics in college and, more recently, delve into the wonder world of software development. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupchurch93&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dupchurch93&hide=contribs&show_icons=true&theme=cobalt" />
+</a>
 
 Connect with me here ⤵️
 
